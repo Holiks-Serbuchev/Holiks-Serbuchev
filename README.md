@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I don't like Python, but I write in it sometimes :)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Error</h3>
 <p align="left">
 </p>
 
