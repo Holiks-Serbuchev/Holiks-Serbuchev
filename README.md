@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Holiks</h1>
 <h3 align="center">I am a fullstack developer</h3>
-<img align="right" alt="Coding" width="400" height="500" src="https://media.tenor.com/uSNaQY2nybgAAAAC/shiba-shiny-shiba.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/uSNaQY2nybgAAAAC/shiba-shiny-shiba.gif">
 
 - 🔭 I’m currently working on **a comic book reading app**
 
