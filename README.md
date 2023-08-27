@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a comic book reading app**
 
-- 🌱 I’m currently learning **Unity/React Native**
+- 🌱 I’m currently learning **Unity/React**
 
 - ⚡ Fun fact **I don't like Python, but I write in it sometimes :)**
 
